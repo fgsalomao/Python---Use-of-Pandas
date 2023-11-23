@@ -100,15 +100,15 @@ Use the scores above to create a DataFrame called `spending_summary`.
 
 Include the following metrics in the table:
 
-!!!Average math score
+:double_exclamation_mark: Average math score
 
-!!!Average reading score
+:double_exclamation_mark: Average reading score
 
-!!!% passing math (the percentage of students who passed math)
+:double_exclamation_mark: % passing math (the percentage of students who passed math)
 
-!!!% passing reading (the percentage of students who passed reading)
+:double_exclamation_mark: % passing reading (the percentage of students who passed reading)
 
-!!!% overall passing (the percentage of students who passed math AND reading)
+:double_exclamation_mark: % overall passing (the percentage of students who passed math AND reading)
 
 ## Scores by School Size :bar_chart:
 Use the following code to bin the per_school_summary.
